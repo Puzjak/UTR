@@ -4,3 +4,9 @@ c:\users\mp49290\documents\visual studio 2017\Projects\UTR\UTR-1\bin\Debug\UTR-1
 c:\users\mp49290\documents\visual studio 2017\Projects\UTR\UTR-1\obj\Debug\UTR-1.csprojResolveAssemblyReference.cache
 c:\users\mp49290\documents\visual studio 2017\Projects\UTR\UTR-1\obj\Debug\UTR-1.exe
 c:\users\mp49290\documents\visual studio 2017\Projects\UTR\UTR-1\obj\Debug\UTR-1.pdb
+C:\Users\Matija Puzjak\Documents\UTR\UTR-1\bin\Debug\UTR-1.exe.config
+C:\Users\Matija Puzjak\Documents\UTR\UTR-1\bin\Debug\UTR-1.exe
+C:\Users\Matija Puzjak\Documents\UTR\UTR-1\bin\Debug\UTR-1.pdb
+C:\Users\Matija Puzjak\Documents\UTR\UTR-1\obj\Debug\UTR-1.csprojResolveAssemblyReference.cache
+C:\Users\Matija Puzjak\Documents\UTR\UTR-1\obj\Debug\UTR-1.exe
+C:\Users\Matija Puzjak\Documents\UTR\UTR-1\obj\Debug\UTR-1.pdb

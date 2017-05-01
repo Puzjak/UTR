@@ -1,0 +1,6 @@
+C:\Users\Matija Puzjak\Documents\UTR\UTR-2\bin\Debug\UTR-2.exe.config
+C:\Users\Matija Puzjak\Documents\UTR\UTR-2\bin\Debug\UTR-2.exe
+C:\Users\Matija Puzjak\Documents\UTR\UTR-2\bin\Debug\UTR-2.pdb
+C:\Users\Matija Puzjak\Documents\UTR\UTR-2\obj\Debug\UTR-2.csprojResolveAssemblyReference.cache
+C:\Users\Matija Puzjak\Documents\UTR\UTR-2\obj\Debug\UTR-2.exe
+C:\Users\Matija Puzjak\Documents\UTR\UTR-2\obj\Debug\UTR-2.pdb
